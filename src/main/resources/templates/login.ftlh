@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-    <title>Document</title>
+    <title>BUYSELL</title>
 </head>
 <body>
 <h1>BUYSELL</h1>
